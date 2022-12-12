@@ -1,7 +1,7 @@
 # jupyterlab-railway
 A simple way to create the JupyterLab on Railway
 # One Click to Deploy
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/DMH9LF?referralCode=hw-lrw)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BBLVud?referralCode=hw-lrw)
 
 A simple setup for deploying the <a href="https://github.com/jupyterlab/jupyterlab">JupyterLab</a> computational environment to <a href="https://railway.app/">Railway</a>.
 
