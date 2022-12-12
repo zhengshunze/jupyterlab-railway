@@ -1,0 +1,7 @@
+jupyterlab
+jupyter-contrib-nbextensions
+requests
+beautifulsoup4
+numpy
+pandas
+matplotlib
