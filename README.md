@@ -13,3 +13,7 @@ If you don't want to have to access the instance via a random token (redeploying
 Using a password is recommended if you're using the free plan, since apps under that plan get restarted at least once after 500 hours, causing the token to get regenerated and revoking access to anyone using the notebook.
 
 Finally, the instance is configured to accept connections from all ports, which generally would be considered risky. However, if you have custom certificates installed, or you are operating in the `appname.up.railway.app` domain, traffic will be encrypted.
+
+# Reference
+ <a href="[https://jupyter.org/](https://jupyter-server.readthedocs.io/en/latest/index.html)" target="_blank"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/> </a>
